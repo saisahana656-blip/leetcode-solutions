@@ -1,0 +1,15 @@
+# Local environment secrets
+.env
+.env.*
+!.env.example
+
+# Compiled C/C++ outputs
+*.exe
+*.out
+*.o
+*.obj
+
+# Editor / operating system files
+.vscode/
+.DS_Store
+Thumbs.db
